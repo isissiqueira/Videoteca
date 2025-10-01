@@ -9,6 +9,13 @@ Uma aplicação web simples para cadastrar, listar, editar e remover vídeos fav
 - Edição e remoção de vídeos
 - Interface responsiva com Bootstrap
 
+## 📸 Demonstração
+
+![videoteca1](https://github.com/user-attachments/assets/81349705-2864-410d-9710-e8918a9d0206)
+![videoteca2](https://github.com/user-attachments/assets/3cd03445-b211-453c-a63a-4641f0009dd1)
+
+---
+
 ## 🚀 Como rodar o projeto
 
 1. **Clone o repositório**
@@ -79,11 +86,6 @@ videoteca/
 - Confirmação antes de excluir vídeos
 - Melhorias visuais, com layout mais moderno
 
-## 📸 Demonstração
-
-![videoteca-demo](https://user-images.githubusercontent.com/your-github/demo.gif)
-
----
 ## 🎓 Sobre o projeto
 
 Este projeto foi desenvolvido por [Isis Siqueira](https://github.com/isissiqueira), como atividade prática do curso **REPROGRAME-SE** (IFES, 2024). 💜
